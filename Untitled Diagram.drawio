@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-05T17:46:25.940Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.66" etag="ywv6AmD-09fZcieSv0Gp" version="14.7.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-05T18:14:35.853Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.66" etag="CCdYDJ2vaicoXM7eyWp8" version="14.7.6" type="github" pages="2">
   <diagram id="-xlbEysj6lLXRMNJa3hU" name="Page-1">
     <mxGraphModel dx="1597" dy="1742" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -318,61 +318,61 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p_7EMc5attLS8-8jdhmE-0" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="JlqAxrO4d6DwTMm6dV93-1">
-          <mxGeometry x="20" y="-400" width="940" height="360" as="geometry" />
+          <mxGeometry x="20" y="-425" width="940" height="353" as="geometry" />
         </mxCell>
         <mxCell id="p_7EMc5attLS8-8jdhmE-1" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="p_7EMc5attLS8-8jdhmE-0">
-          <mxGeometry width="940" height="118" as="geometry" />
+          <mxGeometry width="940" height="70" as="geometry" />
         </mxCell>
         <mxCell id="p_7EMc5attLS8-8jdhmE-2" value="риск" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="p_7EMc5attLS8-8jdhmE-1">
-          <mxGeometry width="110" height="118" as="geometry" />
+          <mxGeometry width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="p_7EMc5attLS8-8jdhmE-3" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="p_7EMc5attLS8-8jdhmE-1">
-          <mxGeometry x="110" width="220" height="118" as="geometry" />
+        <mxCell id="p_7EMc5attLS8-8jdhmE-3" value="1. ОС не существует&lt;br&gt;2. ввод в эксплуатацию объекта ОС до завершения строительства" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="p_7EMc5attLS8-8jdhmE-1">
+          <mxGeometry x="110" width="220" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="p_7EMc5attLS8-8jdhmE-4" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="p_7EMc5attLS8-8jdhmE-1">
-          <mxGeometry x="330" width="234" height="118" as="geometry" />
+        <mxCell id="p_7EMc5attLS8-8jdhmE-4" value="1. некорректно сформированная стоимость объекта ОС" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="p_7EMc5attLS8-8jdhmE-1">
+          <mxGeometry x="330" width="210" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="p_7EMc5attLS8-8jdhmE-5" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="p_7EMc5attLS8-8jdhmE-1">
-          <mxGeometry x="564" width="188" height="118" as="geometry" />
+        <mxCell id="p_7EMc5attLS8-8jdhmE-5" value="1. несвоевременность ввода ОС в эксплуатацию&lt;br&gt;2. неавторизованный ввод ОС в эксплуатацию" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="p_7EMc5attLS8-8jdhmE-1">
+          <mxGeometry x="540" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="p_7EMc5attLS8-8jdhmE-6" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="p_7EMc5attLS8-8jdhmE-1">
-          <mxGeometry x="752" width="188" height="118" as="geometry" />
+        <mxCell id="p_7EMc5attLS8-8jdhmE-6" value="&lt;span&gt;1. несвоевременность ввода ОС в эксплуатацию&lt;/span&gt;&lt;br&gt;&lt;span&gt;2. неавторизованный ввод ОС в эксплуатацию&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="p_7EMc5attLS8-8jdhmE-1">
+          <mxGeometry x="730" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="p_7EMc5attLS8-8jdhmE-7" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="p_7EMc5attLS8-8jdhmE-0">
-          <mxGeometry y="118" width="940" height="124" as="geometry" />
+          <mxGeometry y="70" width="940" height="165" as="geometry" />
         </mxCell>
         <mxCell id="p_7EMc5attLS8-8jdhmE-8" value="контроль" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="p_7EMc5attLS8-8jdhmE-7">
-          <mxGeometry width="110" height="124" as="geometry" />
+          <mxGeometry width="110" height="165" as="geometry" />
         </mxCell>
-        <mxCell id="p_7EMc5attLS8-8jdhmE-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="p_7EMc5attLS8-8jdhmE-7">
-          <mxGeometry x="110" width="220" height="124" as="geometry" />
+        <mxCell id="p_7EMc5attLS8-8jdhmE-9" value="1. авторизованные комиссии подтверждают наличие объекта и готовность к эксплуатации, что оформляется в актах КС-11, КС-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="p_7EMc5attLS8-8jdhmE-7">
+          <mxGeometry x="110" width="220" height="165" as="geometry" />
         </mxCell>
-        <mxCell id="p_7EMc5attLS8-8jdhmE-10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="p_7EMc5attLS8-8jdhmE-7">
-          <mxGeometry x="330" width="234" height="124" as="geometry" />
+        <mxCell id="p_7EMc5attLS8-8jdhmE-10" value="1. Комиссия проверяет стоимость объекта ОС при утверждении Акта ОС-1 с запросом пояснения по всем несоответствиям" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="p_7EMc5attLS8-8jdhmE-7">
+          <mxGeometry x="330" width="210" height="165" as="geometry" />
         </mxCell>
-        <mxCell id="p_7EMc5attLS8-8jdhmE-11" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="p_7EMc5attLS8-8jdhmE-7">
-          <mxGeometry x="564" width="188" height="124" as="geometry" />
+        <mxCell id="p_7EMc5attLS8-8jdhmE-11" value="1. Приказ на ввод ОС в эксплуатацию утверждается в соответствии с ВНД (матрицей авторизации) в установленные сроки&lt;br&gt;2. Приемка, подтверждение готовности объекта к эксплуатации и оформление ввода ОС в эксплуататцию производится в установленные сроки" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="p_7EMc5attLS8-8jdhmE-7">
+          <mxGeometry x="540" width="190" height="165" as="geometry" />
         </mxCell>
-        <mxCell id="p_7EMc5attLS8-8jdhmE-12" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="p_7EMc5attLS8-8jdhmE-7">
-          <mxGeometry x="752" width="188" height="124" as="geometry" />
+        <mxCell id="p_7EMc5attLS8-8jdhmE-12" value="1. проверка корректности оформления Приказа путем сверки с данными карточки ОС в OEBS R12&lt;br&gt;2. Приемка, подтверждение готовности объекта к эксплуатации и оформление ввода ОС в эксплуататцию производится в установленные сроки" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="p_7EMc5attLS8-8jdhmE-7">
+          <mxGeometry x="730" width="210" height="165" as="geometry" />
         </mxCell>
         <mxCell id="p_7EMc5attLS8-8jdhmE-13" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="p_7EMc5attLS8-8jdhmE-0">
-          <mxGeometry y="242" width="940" height="118" as="geometry" />
+          <mxGeometry y="235" width="940" height="118" as="geometry" />
         </mxCell>
-        <mxCell id="p_7EMc5attLS8-8jdhmE-14" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="p_7EMc5attLS8-8jdhmE-13">
+        <mxCell id="p_7EMc5attLS8-8jdhmE-14" value="рекоммендация" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="p_7EMc5attLS8-8jdhmE-13">
           <mxGeometry width="110" height="118" as="geometry" />
         </mxCell>
-        <mxCell id="p_7EMc5attLS8-8jdhmE-15" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="p_7EMc5attLS8-8jdhmE-13">
+        <mxCell id="p_7EMc5attLS8-8jdhmE-15" value="1. добавить указание на утверждение состава и полномочий комиссии&lt;br&gt;2. оптимизировать две комиссии в одну." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="p_7EMc5attLS8-8jdhmE-13">
           <mxGeometry x="110" width="220" height="118" as="geometry" />
         </mxCell>
-        <mxCell id="p_7EMc5attLS8-8jdhmE-16" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="p_7EMc5attLS8-8jdhmE-13">
-          <mxGeometry x="330" width="234" height="118" as="geometry" />
+        <mxCell id="p_7EMc5attLS8-8jdhmE-16" value="1. добавить контроль за формированием стоимости (корректность отражения прямых затрат, разнесеня косвенных затрат и капитализации процентов&lt;br&gt;2. оценить необходимость включения в стоимость ОС резерва на демонтаж ОС" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="p_7EMc5attLS8-8jdhmE-13">
+          <mxGeometry x="330" width="210" height="118" as="geometry" />
         </mxCell>
         <mxCell id="p_7EMc5attLS8-8jdhmE-17" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="p_7EMc5attLS8-8jdhmE-13">
-          <mxGeometry x="564" width="188" height="118" as="geometry" />
+          <mxGeometry x="540" width="190" height="118" as="geometry" />
         </mxCell>
         <mxCell id="p_7EMc5attLS8-8jdhmE-18" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="p_7EMc5attLS8-8jdhmE-13">
-          <mxGeometry x="752" width="188" height="118" as="geometry" />
+          <mxGeometry x="730" width="210" height="118" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
