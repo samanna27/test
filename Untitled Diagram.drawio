@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-05T18:14:35.853Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.66" etag="CCdYDJ2vaicoXM7eyWp8" version="14.7.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-05T18:17:48.719Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.66" etag="PysIyTEVShRcsha6iKGG" version="14.7.6" type="github" pages="2">
   <diagram id="-xlbEysj6lLXRMNJa3hU" name="Page-1">
     <mxGraphModel dx="1597" dy="1742" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -189,7 +189,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EPydY_kBoaiLtxwQvo4u" name="Page-2">
-    <mxGraphModel dx="1384" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1384" dy="1623" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="JlqAxrO4d6DwTMm6dV93-0" />
         <mxCell id="JlqAxrO4d6DwTMm6dV93-1" parent="JlqAxrO4d6DwTMm6dV93-0" />
@@ -359,7 +359,7 @@
         <mxCell id="p_7EMc5attLS8-8jdhmE-13" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="p_7EMc5attLS8-8jdhmE-0">
           <mxGeometry y="235" width="940" height="118" as="geometry" />
         </mxCell>
-        <mxCell id="p_7EMc5attLS8-8jdhmE-14" value="рекоммендация" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="p_7EMc5attLS8-8jdhmE-13">
+        <mxCell id="p_7EMc5attLS8-8jdhmE-14" value="рекомендация" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="p_7EMc5attLS8-8jdhmE-13">
           <mxGeometry width="110" height="118" as="geometry" />
         </mxCell>
         <mxCell id="p_7EMc5attLS8-8jdhmE-15" value="1. добавить указание на утверждение состава и полномочий комиссии&lt;br&gt;2. оптимизировать две комиссии в одну." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="p_7EMc5attLS8-8jdhmE-13">
