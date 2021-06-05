@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2021-06-05T18:24:52.386Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.66" etag="KwuQKMnTRM9CsUB3iqlM" version="14.7.6" type="github" pages="2">
-  <diagram id="-xlbEysj6lLXRMNJa3hU" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2021-06-05T18:29:19.336Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.66" etag="Pv8Zrqv87emwOReMpKKU" version="14.7.6" type="github" pages="3">
+  <diagram id="-xlbEysj6lLXRMNJa3hU" name="process">
     <mxGraphModel dx="1597" dy="1742" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -188,7 +188,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="EPydY_kBoaiLtxwQvo4u" name="Page-2">
+  <diagram id="EPydY_kBoaiLtxwQvo4u" name="RCR-part1">
     <mxGraphModel dx="1384" dy="1623" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="JlqAxrO4d6DwTMm6dV93-0" />
@@ -372,6 +372,160 @@
           <mxGeometry x="540" width="190" height="118" as="geometry" />
         </mxCell>
         <mxCell id="p_7EMc5attLS8-8jdhmE-18" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="p_7EMc5attLS8-8jdhmE-13">
+          <mxGeometry x="730" width="210" height="118" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="RCR-part2" id="XatHOlfcgingeY-3MyOB">
+    <mxGraphModel dx="1384" dy="1623" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="OnCVhGvLhBmQIhK15UqX-0" />
+        <mxCell id="OnCVhGvLhBmQIhK15UqX-1" parent="OnCVhGvLhBmQIhK15UqX-0" />
+        <mxCell id="OnCVhGvLhBmQIhK15UqX-30" value="3 дня" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="OnCVhGvLhBmQIhK15UqX-1" source="OnCVhGvLhBmQIhK15UqX-31" target="OnCVhGvLhBmQIhK15UqX-34">
+          <mxGeometry x="0.6" y="-15" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnCVhGvLhBmQIhK15UqX-31" value="1. сформировать проект акта ОС-1 по объектам ОС, введенным в эксплуатацию&lt;br&gt;2. направить в ЕСЭД на согласование" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="OnCVhGvLhBmQIhK15UqX-1">
+          <mxGeometry x="384" y="-788" width="155" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="OnCVhGvLhBmQIhK15UqX-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="OnCVhGvLhBmQIhK15UqX-1" source="OnCVhGvLhBmQIhK15UqX-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="239" y="-636" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnCVhGvLhBmQIhK15UqX-33" value="3 дня&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="OnCVhGvLhBmQIhK15UqX-1" source="OnCVhGvLhBmQIhK15UqX-34" target="OnCVhGvLhBmQIhK15UqX-39">
+          <mxGeometry x="0.9002" y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnCVhGvLhBmQIhK15UqX-34" value="1. утвердить акт ОС-1&lt;br&gt;2. направить утвержденный акт ОС-1 посредством ЕСЭД в ОУ ОСиКВ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="OnCVhGvLhBmQIhK15UqX-1">
+          <mxGeometry x="169" y="-786" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OnCVhGvLhBmQIhK15UqX-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="OnCVhGvLhBmQIhK15UqX-1" source="OnCVhGvLhBmQIhK15UqX-36" target="OnCVhGvLhBmQIhK15UqX-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="545" y="-616" />
+              <mxPoint x="545" y="-656" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnCVhGvLhBmQIhK15UqX-36" value="Акт ОС-1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="OnCVhGvLhBmQIhK15UqX-1">
+          <mxGeometry x="189" y="-636" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OnCVhGvLhBmQIhK15UqX-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="OnCVhGvLhBmQIhK15UqX-1" source="OnCVhGvLhBmQIhK15UqX-39" target="OnCVhGvLhBmQIhK15UqX-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OnCVhGvLhBmQIhK15UqX-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="OnCVhGvLhBmQIhK15UqX-1" source="OnCVhGvLhBmQIhK15UqX-39" target="OnCVhGvLhBmQIhK15UqX-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OnCVhGvLhBmQIhK15UqX-39" value="1. сверить данные в акте ОС-1 и карточке ОС в OEBS R12&lt;br&gt;2. разместить скан акта ОС-1 на &quot;скрепке&quot; в карточке актива в OEBS R12" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="OnCVhGvLhBmQIhK15UqX-1">
+          <mxGeometry x="793" y="-709" width="154" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="OnCVhGvLhBmQIhK15UqX-40" value="OEBS R12" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="OnCVhGvLhBmQIhK15UqX-1">
+          <mxGeometry x="840" y="-578" width="60" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="OnCVhGvLhBmQIhK15UqX-41" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="OnCVhGvLhBmQIhK15UqX-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="-10" as="sourcePoint" />
+            <mxPoint x="130" y="-840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnCVhGvLhBmQIhK15UqX-42" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="OnCVhGvLhBmQIhK15UqX-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="349.9999999999998" y="-8.000000000000227" as="sourcePoint" />
+            <mxPoint x="349.9999999999998" y="-837.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnCVhGvLhBmQIhK15UqX-43" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="OnCVhGvLhBmQIhK15UqX-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="559.9999999999998" y="-10.000000000000227" as="sourcePoint" />
+            <mxPoint x="559.9999999999998" y="-839.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnCVhGvLhBmQIhK15UqX-44" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="OnCVhGvLhBmQIhK15UqX-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="747" y="-12.000000000000227" as="sourcePoint" />
+            <mxPoint x="747" y="-841.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnCVhGvLhBmQIhK15UqX-45" value="Объект введен в эксплуатацию и ввод оформлен в учете" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="OnCVhGvLhBmQIhK15UqX-1">
+          <mxGeometry x="970" y="-686" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OnCVhGvLhBmQIhK15UqX-46" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="OnCVhGvLhBmQIhK15UqX-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="958" y="-10.000000000000227" as="sourcePoint" />
+            <mxPoint x="958" y="-839.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="djNpBsb-0lec0_ZwheDJ-0" value="Комиссии" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="OnCVhGvLhBmQIhK15UqX-1">
+          <mxGeometry x="211" y="-838" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="djNpBsb-0lec0_ZwheDJ-1" value="Сотрудник ЦФО" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="OnCVhGvLhBmQIhK15UqX-1">
+          <mxGeometry x="413.5" y="-840" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="djNpBsb-0lec0_ZwheDJ-2" value="Директор РФ/МРФ/ &lt;br&gt;Комиссии КЦ" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="OnCVhGvLhBmQIhK15UqX-1">
+          <mxGeometry x="620" y="-840" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="djNpBsb-0lec0_ZwheDJ-3" value="ОУ ОСиКВ" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="OnCVhGvLhBmQIhK15UqX-1">
+          <mxGeometry x="826" y="-838" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wjWZnYH0UReuqZnutFEl-0" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="OnCVhGvLhBmQIhK15UqX-1">
+          <mxGeometry x="17" y="-474" width="940" height="366.6666666666664" as="geometry" />
+        </mxCell>
+        <mxCell id="wjWZnYH0UReuqZnutFEl-1" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="wjWZnYH0UReuqZnutFEl-0">
+          <mxGeometry width="940" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wjWZnYH0UReuqZnutFEl-2" value="риск" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="wjWZnYH0UReuqZnutFEl-1">
+          <mxGeometry width="112" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wjWZnYH0UReuqZnutFEl-3" value="Р1. ОС не существует&lt;br&gt;Р2. ввод в эксплуатацию объекта ОС до завершения строительства" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="wjWZnYH0UReuqZnutFEl-1">
+          <mxGeometry x="112" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wjWZnYH0UReuqZnutFEl-4" value="Р3. некорректно сформированная стоимость объекта ОС" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="wjWZnYH0UReuqZnutFEl-1">
+          <mxGeometry x="332" width="211" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wjWZnYH0UReuqZnutFEl-5" value="Р4. несвоевременность ввода ОС в эксплуатацию&lt;br&gt;Р5. неавторизованный ввод ОС в эксплуатацию" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="wjWZnYH0UReuqZnutFEl-1">
+          <mxGeometry x="543" width="187" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wjWZnYH0UReuqZnutFEl-6" value="&lt;span&gt;Р4. несвоевременность ввода ОС в эксплуатацию&lt;/span&gt;&lt;br&gt;&lt;span&gt;Р5. неавторизованный ввод ОС в эксплуатацию&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="wjWZnYH0UReuqZnutFEl-1">
+          <mxGeometry x="730" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wjWZnYH0UReuqZnutFEl-7" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="wjWZnYH0UReuqZnutFEl-0">
+          <mxGeometry y="70" width="940" height="179" as="geometry" />
+        </mxCell>
+        <mxCell id="wjWZnYH0UReuqZnutFEl-8" value="контроль" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="wjWZnYH0UReuqZnutFEl-7">
+          <mxGeometry width="112" height="179" as="geometry" />
+        </mxCell>
+        <mxCell id="wjWZnYH0UReuqZnutFEl-9" value="К1. авторизованные комиссии подтверждают наличие объекта и готовность к эксплуатации в установленные сроки, что оформляется в актах КС-11, КС-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="wjWZnYH0UReuqZnutFEl-7">
+          <mxGeometry x="112" width="220" height="179" as="geometry" />
+        </mxCell>
+        <mxCell id="wjWZnYH0UReuqZnutFEl-10" value="К5. Комиссия проверяет стоимость объекта ОС при утверждении Акта ОС-1 с запросом пояснения по всем несоответствиям" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="wjWZnYH0UReuqZnutFEl-7">
+          <mxGeometry x="332" width="211" height="179" as="geometry" />
+        </mxCell>
+        <mxCell id="wjWZnYH0UReuqZnutFEl-11" value="К1...&lt;br&gt;К2. Приказ на ввод ОС в эксплуатацию утверждается в соответствии с ВНД (матрицей авторизации) в установленные сроки&lt;br&gt;К3. Оформление ввода ОС в эксплуататцию в учетной системе (OEBS R12) производится в установленные сроки" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="wjWZnYH0UReuqZnutFEl-7">
+          <mxGeometry x="543" width="187" height="179" as="geometry" />
+        </mxCell>
+        <mxCell id="wjWZnYH0UReuqZnutFEl-12" value="K1 - K3...&lt;br&gt;K4. проверка корректности оформления Приказа путем сверки с данными карточки ОС в OEBS R12" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="wjWZnYH0UReuqZnutFEl-7">
+          <mxGeometry x="730" width="210" height="179" as="geometry" />
+        </mxCell>
+        <mxCell id="wjWZnYH0UReuqZnutFEl-13" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="wjWZnYH0UReuqZnutFEl-0">
+          <mxGeometry y="249" width="940" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="wjWZnYH0UReuqZnutFEl-14" value="рекомендация" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="wjWZnYH0UReuqZnutFEl-13">
+          <mxGeometry width="112" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="wjWZnYH0UReuqZnutFEl-15" value="1. добавить указание на утверждение состава и полномочий комиссии&lt;br&gt;2. оптимизировать две комиссии в одну." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="wjWZnYH0UReuqZnutFEl-13">
+          <mxGeometry x="112" width="220" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="wjWZnYH0UReuqZnutFEl-16" value="1. добавить контроль за формированием стоимости (корректность отражения прямых затрат, разнесеня косвенных затрат и капитализации процентов&lt;br&gt;2. оценить необходимость включения в стоимость ОС резерва на демонтаж ОС" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="wjWZnYH0UReuqZnutFEl-13">
+          <mxGeometry x="332" width="211" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="wjWZnYH0UReuqZnutFEl-17" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="wjWZnYH0UReuqZnutFEl-13">
+          <mxGeometry x="543" width="187" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="wjWZnYH0UReuqZnutFEl-18" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="wjWZnYH0UReuqZnutFEl-13">
           <mxGeometry x="730" width="210" height="118" as="geometry" />
         </mxCell>
       </root>
