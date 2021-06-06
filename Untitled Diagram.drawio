@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-05T19:32:26.210Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.66" etag="9edX2hHKhz80iiFW7SZC" version="14.7.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-06-06T12:28:14.124Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.66" etag="en8J6K2DB6_YUFJQiF-k" version="14.7.6" type="github" pages="3">
   <diagram id="-xlbEysj6lLXRMNJa3hU" name="process">
     <mxGraphModel dx="1597" dy="1742" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -189,7 +189,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EPydY_kBoaiLtxwQvo4u" name="RCR-part1">
-    <mxGraphModel dx="1384" dy="1623" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1384" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="JlqAxrO4d6DwTMm6dV93-0" />
         <mxCell id="JlqAxrO4d6DwTMm6dV93-1" parent="JlqAxrO4d6DwTMm6dV93-0" />
@@ -318,28 +318,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p_7EMc5attLS8-8jdhmE-0" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="JlqAxrO4d6DwTMm6dV93-1">
-          <mxGeometry x="20" y="-424" width="940" height="378.39998372395814" as="geometry" />
+          <mxGeometry x="20" y="-430" width="940" height="403.39998372395814" as="geometry" />
         </mxCell>
         <mxCell id="p_7EMc5attLS8-8jdhmE-1" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="p_7EMc5attLS8-8jdhmE-0">
-          <mxGeometry width="940" height="70" as="geometry" />
+          <mxGeometry width="940" height="95" as="geometry" />
         </mxCell>
         <mxCell id="p_7EMc5attLS8-8jdhmE-2" value="риск" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="p_7EMc5attLS8-8jdhmE-1">
-          <mxGeometry width="110" height="70" as="geometry" />
+          <mxGeometry width="110" height="95" as="geometry" />
         </mxCell>
         <mxCell id="p_7EMc5attLS8-8jdhmE-3" value="Р1. ОС не существует&lt;br&gt;Р2. ввод в эксплуатацию объекта ОС до завершения строительства" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="p_7EMc5attLS8-8jdhmE-1">
-          <mxGeometry x="110" width="220" height="70" as="geometry" />
+          <mxGeometry x="110" width="220" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="p_7EMc5attLS8-8jdhmE-4" value="Р3. некорректно сформированная стоимость объекта ОС" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="p_7EMc5attLS8-8jdhmE-1">
-          <mxGeometry x="330" width="210" height="70" as="geometry" />
+        <mxCell id="p_7EMc5attLS8-8jdhmE-4" value="Р3. некорректно сформированная стоимость объекта ОС, СПИ, метод амортизации&lt;br&gt;&amp;nbsp;в финансовом учете&lt;br&gt;Р6. некорректно сформирована стоимость ОС, СПИ, метод амортизации в налоговом учете&lt;br&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="p_7EMc5attLS8-8jdhmE-1">
+          <mxGeometry x="330" width="210" height="95" as="geometry" />
         </mxCell>
         <mxCell id="p_7EMc5attLS8-8jdhmE-5" value="Р4. несвоевременность ввода ОС в эксплуатацию&lt;br&gt;Р5. неавторизованный ввод ОС в эксплуатацию" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="p_7EMc5attLS8-8jdhmE-1">
-          <mxGeometry x="540" width="190" height="70" as="geometry" />
+          <mxGeometry x="540" width="190" height="95" as="geometry" />
         </mxCell>
         <mxCell id="p_7EMc5attLS8-8jdhmE-6" value="&lt;span&gt;Р4. несвоевременность ввода ОС в эксплуатацию&lt;/span&gt;&lt;br&gt;&lt;span&gt;Р5. неавторизованный ввод ОС в эксплуатацию&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="p_7EMc5attLS8-8jdhmE-1">
-          <mxGeometry x="730" width="210" height="70" as="geometry" />
+          <mxGeometry x="730" width="210" height="95" as="geometry" />
         </mxCell>
         <mxCell id="p_7EMc5attLS8-8jdhmE-7" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="p_7EMc5attLS8-8jdhmE-0">
-          <mxGeometry y="70" width="940" height="158" as="geometry" />
+          <mxGeometry y="95" width="940" height="158" as="geometry" />
         </mxCell>
         <mxCell id="p_7EMc5attLS8-8jdhmE-8" value="контроль" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="p_7EMc5attLS8-8jdhmE-7">
           <mxGeometry width="110" height="158" as="geometry" />
@@ -357,7 +357,7 @@
           <mxGeometry x="730" width="210" height="158" as="geometry" />
         </mxCell>
         <mxCell id="p_7EMc5attLS8-8jdhmE-13" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="p_7EMc5attLS8-8jdhmE-0">
-          <mxGeometry y="228" width="940" height="150" as="geometry" />
+          <mxGeometry y="253" width="940" height="150" as="geometry" />
         </mxCell>
         <mxCell id="p_7EMc5attLS8-8jdhmE-14" value="рекомендация" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="p_7EMc5attLS8-8jdhmE-13">
           <mxGeometry width="110" height="150" as="geometry" />
